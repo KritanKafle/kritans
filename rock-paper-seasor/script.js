@@ -50,6 +50,9 @@ const showwinner = (userwin , u,c) => {
     
 }
 
+
+// main 
+
 const playgame=(userChoice)=>{
     
     //generate compuetr choice
